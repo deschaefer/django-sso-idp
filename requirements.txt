@@ -1,0 +1,6 @@
+django
+django-grappelli
+django-debug-toolbar
+django-admin-extra-buttons
+django-extensions
+djangosaml2idp
